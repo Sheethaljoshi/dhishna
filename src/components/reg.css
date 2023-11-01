@@ -45,8 +45,11 @@
   }
   
   .form-heading {
-    color: #f1d42d; 
+    color: #f5dc50; 
     margin-bottom: 20px;
+    text-shadow: 0 0 20px #eedf8b;
+    font-weight: bold;
+    
   }
   
   .form-input {
@@ -82,7 +85,7 @@
     justify-content: center;
   }
   .submit-button {
-    background-color: #f3d632;;
+    background-color: #f8dd42;;
     color: #000000d5;
     padding: 10px 20px; 
     border: none;
@@ -92,6 +95,7 @@
     font-size: 20px;
     transition: background-color 0.3s, color 0.3s;
     margin: auto;
+    box-shadow: 0 0 5px #e6e64d;
   }
   
   .submit-button:hover {
