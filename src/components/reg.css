@@ -98,6 +98,9 @@
     box-shadow: 0 0 5px #e6e64d;
   }
   
+  p{
+    color: red;
+  }
   .submit-button:hover {
     background-color: #000;
     color: #f0d438;
